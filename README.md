@@ -20,16 +20,14 @@ Hi there! 👋 I'm Asinas <br><br>I'm a Software Engineering & Media Informatics
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=asinas99&theme=react&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=asinas99&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=asinas99&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AsinasEsber&theme=react&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AsinasEsber&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AsinasEsber&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 # 📌 Pinned Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asinas99&repo=ACILV&theme=react)](https://github.com/asinas99/ACILV)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asinas99&repo=Minesweeper&theme=react)](https://github.com/asinas99/Minesweeper)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asinas99&repo=UI-Portfolio&theme=react)](https://github.com/asinas99/UI-Portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AsinasEsber&repo=Minesweeper&theme=react)](https://github.com/AsinasEsber/Minesweeper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AsinasEsber&repo=UI-Portfolio&theme=react)](https://github.com/AsinasEsber/UI-Portfolio)
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=asinas99&icon=6&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AsinasEsber&icon=6&color=1)](https://visitcount.itsvg.in)
