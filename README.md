@@ -27,7 +27,7 @@ Hi there! 👋 I'm Asinas <br><br>I'm a Software Engineering & Media Informatics
 # 📌 Pinned Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AsinasEsber&repo=Minesweeper&theme=react)](https://github.com/AsinasEsber/Minesweeper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AsinasEsber&repo=UI-Portfolio&theme=react)](https://github.com/AsinasEsber/UI-Portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AsinasEsber&repo=ACILV&theme=react)](https://github.com/AsinasEsber/ACILV)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AsinasEsber&icon=6&color=1)](https://visitcount.itsvg.in)
